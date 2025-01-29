@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [
+			"webxr/webxr-polyfill.min.js"
+		],
+		"css": []
+	},
+	"skin": {
+		"js": "skin.js"
+	},
+	"vrskin": {
+		"js": "skin_vr.js"
+	},
+	"player": {
+		"js": "nathalli_player.js"
+	},
+	"creationdate": "2025-01-27T12:05:30.733Z",
+	"configuration": "nathalli.xml",
+	"preview": {
+		"img": "preview.jpg",
+		"width": 640,
+		"height": 480
+	}
+}
