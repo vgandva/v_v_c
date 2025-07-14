@@ -5,78 +5,102 @@
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.0.0/dist/mindar-image-aframe.prod.js"></script>
     <script src="https://unpkg.com/aframe-transparent-video-shader@1.0.3/dist/aframe-transparent-video-shader.umd.js"></script>
+    <script src="https://rawgit.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
+    <style>
+      .start-button {
+        position: fixed;
+        top: 10%;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 15px 25px;
+        background-color: #ff5722;
+        color: white;
+        font-size: 18px;
+        border: none;
+        border-radius: 10px;
+        z-index: 10;
+        display: none;
+      }
+    </style>
   </head>
-
   <body>
-    <a-scene
-      embedded
-      mindar-image="imageTargetSrc: 1.mind;"
-      color-space="sRGB"
-      renderer="alpha: true; colorManagement: true, physicallyCorrectLights"
-      vr-mode-ui="enabled: false"
-      device-orientation-permission-ui="enabled: false"
+    <button class="start-button" id="startBtn">Press to See the Magic</button>
+
+    <a-scene 
+      embedded 
+      mindar-image="imageTargetSrc: 1.mind;" 
+      color-space="sRGB" 
+      renderer="colorManagement: true, physicallyCorrectLights" 
+      vr-mode-ui="enabled: false" 
+      device-orientation-permission-ui="enabled: false" 
       arjs="sourceType: webcam; debugUIEnabled: false;"
     >
       <a-assets>
-        <video
-          id="mivideo"
-          src="stage.webm"
-          preload="auto"
-          playsinline
-          webkit-playsinline
-          crossorigin="anonymous"
-          muted
+        <video 
+          id="mivideo" 
+          crossOrigin="anonymous" 
+          playsinline 
+          webkitplaysinline 
+          src="stage.webm" 
+          type="video/webm" 
+          transparent="true" 
+          muted 
         ></video>
       </a-assets>
 
       <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
 
-      <a-entity mindar-image-target="targetIndex: 0" id="marker">
-        <a-plane
-          id="videoEl"
-          shader="transparent-video"
-          src="#mivideo"
-          width="2"
-          height="1"
-          position="0 0 0"
-          rotation="0 0 0"
-        ></a-plane>
+      <a-entity mindar-image-target="targetIndex: 0">
+        <a-video 
+          id="video-plane"
+          material="shader: transparent-video;" 
+          src="#mivideo" 
+          position="0 0 0" 
+          width="2" 
+          height="1" 
+          rotation="0 0 0" 
+          visible="false"
+        ></a-video>
       </a-entity>
     </a-scene>
 
     <script>
       const video = document.querySelector("#mivideo");
-      const marker = document.querySelector("#marker");
+      const startBtn = document.getElementById("startBtn");
+      const videoPlane = document.querySelector("#video-plane");
+      const target = document.querySelector("[mindar-image-target]");
 
-      let isMarkerVisible = false;
-      let wasPausedByMarker = false;
+      let isVideoStarted = false;
 
-      marker.addEventListener("targetFound", () => {
+      target.addEventListener("targetFound", () => {
         console.log("Marker found");
-        isMarkerVisible = true;
-        if (video.ended) video.currentTime = 0;
-        if (wasPausedByMarker || video.paused) {
-          video.play();
-          wasPausedByMarker = false;
+        videoPlane.setAttribute("visible", true);
+        
+        if (!isVideoStarted) {
+          startBtn.style.display = "block"; // show button only once
+        } else {
+          video.play(); // resume automatically
         }
       });
 
-      marker.addEventListener("targetLost", () => {
+      target.addEventListener("targetLost", () => {
         console.log("Marker lost");
-        isMarkerVisible = false;
-        if (!video.paused) {
-          video.pause();
-          wasPausedByMarker = true;
-        }
+        video.pause();
+        videoPlane.setAttribute("visible", false);
       });
 
+      startBtn.addEventListener("click", () => {
+        video.muted = false;
+        video.play();
+        startBtn.style.display = "none";
+        isVideoStarted = true;
+      });
+
+      // Optional: Restart video automatically after 1s when it ends
       video.addEventListener("ended", () => {
-        console.log("Video ended");
         setTimeout(() => {
-          if (isMarkerVisible) {
-            video.currentTime = 0;
-            video.play();
-          }
+          video.currentTime = 0;
+          video.play();
         }, 1000);
       });
     </script>
