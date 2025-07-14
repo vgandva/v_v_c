@@ -5,77 +5,80 @@
     <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.0.0/dist/mindar-image-aframe.prod.js"></script>
     <script src="https://unpkg.com/aframe-transparent-video-shader@1.0.3/dist/aframe-transparent-video-shader.umd.js"></script>
-    <script src="https://rawgit.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
-
-
-  
-  </style>
-
-<div style='position: fixed; top: 10px; width:100%; text-align: center; z-index: 1;'>
-    <button class="button" id="btn1">once again</button>
-    <button class="button" id="btn4">start</button>
-   
-  </div>
-  
-
-<meta name="apple-mobile-web-app-capable" content="yes">
   </head>
-   <body>
-    <a-scene embedded arjs="sourceType: webcam; debugUIEnabled: false;"  mindar-image="imageTargetSrc: 1.mind;" color-space="sRGB" renderer="colorManagement: true, physicallyCorrectLights" vr-mode-ui="enabled: false" device-orientation-permission-ui="enabled: false">
-    	
-    
-    	<a-assets>
 
-        <video  id="mivideo" crossOrigin="anonymous" playsinline webkitplaysinline autoplay controls  src="stage.webm" type="video/webm" transparent="true" muted="false" ></video>
+  <body>
+    <a-scene
+      embedded
+      mindar-image="imageTargetSrc: 1.mind;"
+      color-space="sRGB"
+      renderer="alpha: true; colorManagement: true, physicallyCorrectLights"
+      vr-mode-ui="enabled: false"
+      device-orientation-permission-ui="enabled: false"
+      arjs="sourceType: webcam; debugUIEnabled: false;"
+    >
+      <a-assets>
+        <video
+          id="mivideo"
+          src="stage.webm"
+          preload="auto"
+          playsinline
+          webkit-playsinline
+          crossorigin="anonymous"
+          muted
+        ></video>
       </a-assets>
-       <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
 
+      <a-camera position="0 0 0" look-controls="enabled: false"></a-camera>
 
-
-        
-        <a-entity mindar-image-target="targetIndex: 0">
-
- <a-video  material="shader: transparent-video;" src="#mivideo" position="0 0 0"  width="2" height="1" rotation="0 0 0"  ></a-video>
-
-   <script> 
-
-      var m = document.querySelector("a-entity")
-      m.addEventListener("targetfound", (e)=>{
-      console.log("targetfound")
-      var v = document.querySelector('#mivideo').play();
-   
-
-})
-      m.addEventListener("targetLost", (e)=>{
-      console.log("lost")
-      var v = document.querySelector('#mivideo').pause();
-  
-})
-     
-document.getElementById("btn4").addEventListener("click", (e)=>{
-
-  var v = document.querySelector('#mivideo').play();
-  
-})
-     document.getElementById("btn4").addEventListener("click", (e)=>{
-
-  var v = document.querySelector('#mivideo').muted=false;
-})
-
-document.getElementById("btn1").addEventListener("click", function() {
-  var video = document.querySelector('#mivideo');
-  video.currentTime = 0;
-  video.play();
-});
-
-
- 
-
-
-     </script>
-      
-       </a-entity>
-  
+      <a-entity mindar-image-target="targetIndex: 0" id="marker">
+        <a-plane
+          id="videoEl"
+          shader="transparent-video"
+          src="#mivideo"
+          width="2"
+          height="1"
+          position="0 0 0"
+          rotation="0 0 0"
+        ></a-plane>
+      </a-entity>
     </a-scene>
+
+    <script>
+      const video = document.querySelector("#mivideo");
+      const marker = document.querySelector("#marker");
+
+      let isMarkerVisible = false;
+      let wasPausedByMarker = false;
+
+      marker.addEventListener("targetFound", () => {
+        console.log("Marker found");
+        isMarkerVisible = true;
+        if (video.ended) video.currentTime = 0;
+        if (wasPausedByMarker || video.paused) {
+          video.play();
+          wasPausedByMarker = false;
+        }
+      });
+
+      marker.addEventListener("targetLost", () => {
+        console.log("Marker lost");
+        isMarkerVisible = false;
+        if (!video.paused) {
+          video.pause();
+          wasPausedByMarker = true;
+        }
+      });
+
+      video.addEventListener("ended", () => {
+        console.log("Video ended");
+        setTimeout(() => {
+          if (isMarkerVisible) {
+            video.currentTime = 0;
+            video.play();
+          }
+        }, 1000);
+      });
+    </script>
   </body>
 </html>
