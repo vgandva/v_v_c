@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20913" hassounds="0" appversion="7.1.2" start="node5">
+  <panorama hideabout="1" id="node5">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-81.03" projection="4" fov="70" tilt="-1.6"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node5" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-79.95" title="" target="$fwd" id="Point01" skinid="ht_node" tilt="-44.75" description="" url="{node6}"/>
+      <hotspot pan="-78.13" title="" target="$fwd" id="Point02" skinid="ht_node" tilt="-24.61" description="" url="{node7}"/>
+      <hotspot pan="-65.57" title="" target="$fwd" id="Point03" skinid="ht_node" tilt="2.42" description="" url="{node1}"/>
+      <hotspot pan="-75.93" title="" target="$fwd" id="Point04" skinid="ht_node" tilt="-2.83" description="" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-84.91" projection="4" fov="70" tilt="-3.89"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node6" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-341.51" title="" target="-92.1/-3.6/70.0" id="Point01" skinid="ht_node" tilt="-28.35" description="" url="{node9}"/>
+      <hotspot pan="-246.36" title="" target="" id="Point02" skinid="ht_node" tilt="-48.11" description="" url="{node5}"/>
+      <hotspot pan="-157.06" title="" target="5.0/-6.1/70.0" id="Point03" skinid="ht_node" tilt="-15.43" description="" url="{node10}"/>
+      <hotspot pan="-155.38" title="" target="-77.2/-4.2/70.0" id="Point04" skinid="ht_node" tilt="-23.07" description="" url="{node8}"/>
+      <hotspot pan="-66.09" title="" target="$fwd" id="Point05" skinid="ht_node" tilt="2.66" description="" url="{node1}"/>
+      <hotspot pan="-80.52" title="" target="$fwd" id="Point06" skinid="ht_node" tilt="-1.11" description="" url="{node4}"/>
+      <hotspot pan="-131.07" title="" target="$fwd" id="Point07" skinid="ht_node" tilt="-1.35" description="" url="{node2}"/>
+      <hotspot pan="-83.93" title="" target="$fwd" id="Point08" skinid="ht_node" tilt="-35.91" description="" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-82.35" projection="4" fov="70" tilt="-2.04"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node7" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-52.33" title="" target="$fwd" id="Point01" skinid="ht_node" tilt="-1.21" description="" url="{node1}"/>
+      <hotspot pan="-80.18" title="" target="$fwd" id="Point02" skinid="ht_node" tilt="-4.33" description="" url="{node4}"/>
+      <hotspot pan="-263.71" title="" target="$fwd" id="Point03" skinid="ht_node" tilt="-44.75" description="" url="{node6}"/>
+      <hotspot pan="-264.66" title="" target="86.1/-0.3/70.0" id="Point04" skinid="ht_node" tilt="-27.72" description="" url="{node5}"/>
+      <hotspot pan="-161.15" title="" target="-112.1/-1.2/70.0" id="Point05" skinid="ht_node" tilt="-2.09" description="" url="{node2}"/>
+      <hotspot pan="-187.82" title="" target="3.8/-4.9/70.0" id="Point06" skinid="ht_node" tilt="-17.23" description="" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-89.8" projection="4" fov="70" tilt="-10.63"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node9" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-253.83" title="" target="-167.7/-3.9/70.0" id="Point01" skinid="ht_node" tilt="-29.68" description="" url="{node6}"/>
+      <hotspot pan="-254.81" title="" target="-2.4/-6.0/70.0" id="Point02" skinid="ht_node" tilt="-10.9" description="" url="{node10}"/>
+      <hotspot pan="-243.29" title="" target="$fwd" id="Point03" skinid="ht_node" tilt="0.4" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-90.67" projection="4" fov="70" tilt="-2.04"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node8" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-251.09" title="" target="10.3/-11.4/70.0" id="Point01" skinid="ht_node" tilt="-30.79" description="" url="{node6}"/>
+      <hotspot pan="-253.01" title="" target="-93.9/-15.3/70.0" id="Point02" skinid="ht_node" tilt="-14.75" description="" url="{node9}"/>
+      <hotspot pan="-298.89" title="" target="-80.7/-8.3/70.0" id="Point03" skinid="ht_node" tilt="-0.64" description="" url="{node1}"/>
+      <hotspot pan="-4.47" title="" target="-97.9/-11.0/70.0" id="Point04" skinid="ht_node" tilt="-7.57" description="" url="{node2}"/>
+      <hotspot pan="-70.29" title="" target="3.9/0.1/70.0" id="Point05" skinid="ht_node" tilt="-41.04" description="" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-88.28" projection="4" fov="70" tilt="-1.2"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node10" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-146.07" title="" target="99.6/-9.6/70.0" id="Point01" skinid="ht_node" tilt="-36.79" description="" url="{node8}"/>
+      <hotspot pan="-154.13" title="" target="9.5/-6.0/70.0" id="Point02" skinid="ht_node" tilt="-18.93" description="" url="{node6}"/>
+      <hotspot pan="-158.25" title="" target="-91.0/1.1/70.0" id="Point03" skinid="ht_node" tilt="-10.54" description="" url="{node9}"/>
+      <hotspot pan="-220.2" title="" target="$fwd" id="Point04" skinid="ht_node" tilt="-7.31" description="" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node1">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-68.38" projection="4" fov="70" tilt="-0.22"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node1" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-71.73" title="" target="12.9/-0.5/70.0" id="Point01" skinid="ht_node" tilt="-21.38" description="" url="{node3}"/>
+      <hotspot pan="-232.95" title="" target="$fwd" id="Point02" skinid="ht_node" tilt="-5.1" description="" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-100.78" projection="4" fov="70" tilt="-3.69"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node2" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-244.28" title="" target="$fwd" id="Point01" skinid="ht_node" tilt="-29.08" description="" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="15.13" projection="4" fov="70" tilt="-0.34"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="330" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node3" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-154.84" title="" target="120.3/-0.9/70.0" id="Point01" skinid="ht_node" tilt="-22.39" description="" url="{node1}"/>
+      <hotspot pan="-151.83" title="" target="$fwd" id="Point02" skinid="ht_node" tilt="0.32" description="" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-106.92" projection="4" fov="70" tilt="3.78"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node4" comment="" info="" tags="New folder" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-296.47" title="" target="$fwd" id="Point01" skinid="ht_node" tilt="-17.77" description="" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input levelingpitch="0" height="2048" overlap="1" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" leveltilesize="510" width="2048" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-120.01" projection="4" fov="70" tilt="-1.19"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" customnodeid="" longitude="" datetime="" author="" nodeid="node11" comment="" info="" tags="Pano2VR6" heading="0" description="" source="" latitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label borderalpha="1" height="20" textalpha="1" border="1" enabled="1" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" wordwrap="1" backgroundalpha="1" background="1" bordercolor="0x000000" width="180"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff"/>
+      <hotspot pan="-348.82" title="" target="$fwd" id="Point01" skinid="ht_node" tilt="-44.18" description="" url="{node2}"/>
+      <hotspot pan="-330.6" title="" target="$fwd" id="Point02" skinid="ht_node" tilt="-11.67" description="" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" zoomoutpause="1" softedge="0" blendcolor="0x000000" zoomafterinfov="90" zoomfov="20" enabled="1" zoomout="0" delay="none" blendtime="1" zoomspeed="2" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control lockedwheel="0" rubberband="0" invertcontrol="1" hideabout="1" lockedkeyboard="0" invertwheel="0" contextvr="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" zoomcentercursor="1" speedwheel="1" contextprojections="0" lockedmouse="0" simulatemass="1" dblclickfullscreen="0">
+      <menulink text="VISIT OUR STUDIO" url="https://nathallibuildingdesignandrenderingstudio.in/"/>
+    </control>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" copyright="" comment="" tags="" description="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
