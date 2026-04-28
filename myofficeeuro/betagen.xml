@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20913" hassounds="0" start="node7" appversion="7.1.2">
+  <panorama id="node14" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node14" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-111.01" title="" url="{node4}" tilt="-47.18" target="-39.5/-33.8/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-265.58" title="" url="{node7}" tilt="-44.04" target="-88.1/-4.1/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point03" pan="-60.57" title="" url="{node3}" tilt="-40.9" target="11.6/-3.9/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point04" pan="-110.72" title="" url="{node5}" tilt="-13.39" target="-116.4/-1.1/70.0"/>
+      <hotspot description="We specifically chose this fluted design for the waiting area ceiling to create a &quot;Premium Canopy&quot; effect. By utilizing the 9.5ft seamless variant (Code 93735 or its latest equivalent), we eliminated all visible horizontal joints, creating a clean, continuous flow. This demonstrates how a well-designed ceiling can define a luxury zone, providing a cozy yet modern architectural feel that immediately impresses clients as they wait" skinid="ht_info" id="Point05" pan="-113.55" title=" Chisel 3 Series | Seamless Fluted Design (Code 3735 / 93735 or Equivalent)" url="" tilt="37.03" target=""/>
+      <hotspot description="We selected this exotic metallic pattern to frame the window and accent the surrounding wall areas. By using the rare &quot;Crotch&quot; grain, we demonstrate how high-end veneers can be used to turn functional architectural elements into artistic focal points. We trust this material for clients who want a unique, luxury look that reflects light beautifully and adds a sense of &quot;bespoke craftsmanship&quot; to their private workspace." skinid="ht_info" id="Point06" pan="-83.61" title="Excluso Series | Metallic Kawazingo Crotch (Code 6643 or Equivalent)" url="" tilt="-18.98" target=""/>
+      <hotspot description="We chose this premium smoked walnut for our entrance to set a tone of timeless professional luxury. The deep, linear grain creates an immediate sense of warmth and prestige. This application serves as a live demonstration for our clients, showing how a high-quality walnut finish can provide the organic beauty of real wood while offering the extreme durability needed for high-traffic commercial entryways." skinid="ht_info" id="Point07" pan="-59.25" title=": Excluso Series | Smoked American Walnut (Code 6668 or Equivalent)" url="" tilt="30.86" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node7" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-253.78" title="" url="{node14}" tilt="-48.29" target="-69.2/-9.2/70.0"/>
+      <hotspot description="For this sacred niche, we selected the Lucento Translucent Panel to create a soft, radiant atmosphere. At just 6mm thick, this panel allows for perfect light transmission, turning the backlit wall into a glowing piece of architectural art. We trust Lucento for our clients because it provides the high-end aesthetic of illuminated onyx with a durable, lightweight panel that is easy to install and maintain" skinid="ht_info" id="Point02" pan="-171.05" title="Lucento by Euro Pratik | Translucent Lighting Series (Code 10103)" url="" tilt="2.6" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node4" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-26.69" title="" url="{node5}" tilt="-27.25" target="-117.9/-9.9/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-215.89" title="" url="{node14}" tilt="-43.13" target="102.8/-6.6/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point03" pan="-194.05" title="" url="{node7}" tilt="-20.79" target="-104.0/-5.9/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point04" pan="-276.06" title="" url="{node3}" tilt="-46.3" target="75.7/-0.0/70.0"/>
+      <hotspot description="We specifically chose this fluted design for the waiting area ceiling to create a &quot;Premium Canopy&quot; effect. By utilizing the 9.5ft seamless variant (Code 93735 or its latest equivalent), we eliminated all visible horizontal joints, creating a clean, continuous flow. This demonstrates how a well-designed ceiling can define a luxury zone, providing a cozy yet modern architectural feel that immediately impresses clients as they wait." skinid="ht_info" id="Point05" pan="-142.56" title="Chisel 3 Series | Seamless Fluted Design (Code 3735 / 93735 or Equivalent)" url="" tilt="85.8" target=""/>
+      <hotspot description="We chose this premium smoked walnut for our entrance to set a tone of timeless professional luxury. The deep, linear grain creates an immediate sense of warmth and prestige. This application serves as a live demonstration for our clients, showing how a high-quality walnut finish can provide the organic beauty of real wood while offering the extreme durability needed for high-traffic commercial entryways." skinid="ht_info" id="Point06" pan="-271.46" title="Excluso Series | Smoked American Walnut (Code 6668 or Equivalent)" url="" tilt="30.19" target=""/>
+      <hotspot description="We selected this exotic metallic pattern to frame the window and accent the surrounding wall areas. By using the rare &quot;Crotch&quot; grain, we demonstrate how high-end veneers can be used to turn functional architectural elements into artistic focal points. We trust this material for clients who want a unique, luxury look that reflects light beautifully and adds a sense of &quot;bespoke craftsmanship&quot; to their private workspace" skinid="ht_info" id="Point07" pan="-3.82" title="Excluso Series | Metallic Kawazingo Crotch (Code 6643 or Equivalent)" url="" tilt="19.28" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node5" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-326.8" title="" url="{node3}" tilt="-27.64" target="177.0/-8.4/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-297.35" title="" url="{node4}" tilt="-22.24" target="172.7/-4.5/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point03" pan="-304.66" title="" url="{node14}" tilt="-20.09" target="99.7/-7.0/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point04" pan="-300.04" title="" url="{node7}" tilt="-11.59" target="-98.0/-3.5/70.0"/>
+      <hotspot description=": We specifically chose this fluted design for the waiting area ceiling to create a &quot;Premium Canopy&quot; effect. By utilizing the 9.5ft seamless variant (Code 93735 or its latest equivalent), we eliminated all visible horizontal joints, creating a clean, continuous flow. This demonstrates how a well-designed ceiling can define a luxury zone, providing a cozy yet modern architectural feel that immediately impresses clients as they wait" skinid="ht_info" id="Point05" pan="-302.9" title="Chisel 3 Series | Seamless Fluted Design (Code 3735 / 93735 or Equivalent)" url="" tilt="32.78" target=""/>
+      <hotspot description="We chose this premium smoked walnut for our entrance to set a tone of timeless professional luxury. The deep, linear grain creates an immediate sense of warmth and prestige. This application serves as a live demonstration for our clients, showing how a high-quality walnut finish can provide the organic beauty of real wood while offering the extreme durability needed for high-traffic commercial entryways." skinid="ht_info" id="Point06" pan="-328.13" title="Excluso Series | Smoked American Walnut (Code 6668 or Equivalent)" url="" tilt="15.93" target=""/>
+      <hotspot description="We selected this exotic metallic pattern to frame the window and accent the surrounding wall areas. By using the rare &quot;Crotch&quot; grain, we demonstrate how high-end veneers can be used to turn functional architectural elements into artistic focal points. We trust this material for clients who want a unique, luxury look that reflects light beautifully and adds a sense of &quot;bespoke craftsmanship&quot; to their private workspace." skinid="ht_info" id="Point07" pan="-128.38" title="Excluso Series | Metallic Kawazingo Crotch (Code 6643 or Equivalent)" url="" tilt="0.88" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node3" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-106.59" title="" url="{node4}" tilt="-32.23" target="-109.3/-6.7/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-50.45" title="" url="{node5}" tilt="-14.92" target="-122.0/-6.4/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point03" pan="-192.12" title="" url="{node9}" tilt="-24.6" target="99.1/-3.7/70.0"/>
+      <hotspot description="Selected to create a sense of expansive space in a compact 250 sq. ft. layout, this SPC flooring offers a seamless, grout-free finish that mimics real hardwood without the maintenance.&#xa;Design &amp; Execution Insight:&#xa;While the 360° render highlights a minimalist floor-to-wall transition, the use of matching SPC skirting is specified for execution. This detail continues the wood grain up the wall, visually extending the floor area to make the room feel larger while masking the necessary expansion gaps for a durable, long-term finish&#xa;" skinid="ht_info" id="Point04" pan="-133.47" title="Natural Oak | HF000818" url="" tilt="-37.58" target=""/>
+      <hotspot description="We specifically chose this fluted design for the waiting area ceiling to create a &quot;Premium Canopy&quot; effect. By utilizing the 9.5ft seamless variant (Code 93735 or its latest equivalent), we eliminated all visible horizontal joints, creating a clean, continuous flow. This demonstrates how a well-designed ceiling can define a luxury zone, providing a cozy yet modern architectural feel that immediately impresses clients as they wait." skinid="ht_info" id="Point05" pan="-114.22" title="Chisel 3 Series | Seamless Fluted Design (Code 3735 / 93735 or Equivalent)" url="" tilt="29.63" target=""/>
+      <hotspot description="We selected this exotic metallic pattern to frame the window and accent the surrounding wall areas. By using the rare &quot;Crotch&quot; grain, we demonstrate how high-end veneers can be used to turn functional architectural elements into artistic focal points. We trust this material for clients who want a unique, luxury look that reflects light beautifully and adds a sense of &quot;bespoke craftsmanship&quot; to their private workspace." skinid="ht_info" id="Point06" pan="-50.21" title="Excluso Series | Metallic Kawazingo Crotch (Code 6643 or Equivalent)" url="" tilt="-2.11" target=""/>
+      <hotspot description="We chose this premium smoked walnut for our entrance to set a tone of timeless professional luxury. The deep, linear grain creates an immediate sense of warmth and prestige. This application serves as a live demonstration for our clients, showing how a high-quality walnut finish can provide the organic beauty of real wood while offering the extreme durability needed for high-traffic commercial entryways" skinid="ht_info" id="Point07" pan="-170.16" title="Excluso Series | Smoked American Walnut (Code 6668 or Equivalent)" url="" tilt="-11.28" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node9" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-264.46" title="" url="{node10}" tilt="-36.02" target="97.0/-5.8/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-92.93" title="" url="{node3}" tilt="-20.83" target="7.2/-3.1/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point03" pan="-265.91" title="" url="{node11}" tilt="-17.54" target="81.5/-2.0/70.0"/>
+      <hotspot description="We used this fluted louver (Code 3724 or its latest equivalent) to add a modern, linear rhythm to transition areas. Placed strategically in narrow corridors, it adds architectural depth while remaining durable for high-traffic zones. It is our go-to choice for clients seeking a &quot;clean-line&quot; aesthetic." skinid="ht_info" id="Point04" pan="-183.21" title="Chisel 3 Series | Vertical Fluted Profile (Code 3724 or Equivalent)" url="" tilt="-11.1" target=""/>
+      <hotspot description="We used this fluted louver (Code 3724 or its latest equivalent) to add a modern, linear rhythm to transition areas. Placed strategically in narrow corridors, it adds architectural depth while remaining durable for high-traffic zones. It is our go-to choice for clients seeking a &quot;clean-line&quot; aesthetic." skinid="ht_info" id="Point05" pan="-252.75" title="Chisel 3 Series | Vertical Fluted Profile (Code 3724 or Equivalent)" url="" tilt="3.69" target=""/>
+      <hotspot description="We used this fluted louver (Code 3724 or its latest equivalent) to add a modern, linear rhythm to transition areas. Placed strategically in narrow corridors, it adds architectural depth while remaining durable for high-traffic zones. It is our go-to choice for clients seeking a &quot;clean-line&quot; aesthetic." skinid="ht_info" id="Point06" pan="-266.04" title="Chisel 3 Series | Vertical Fluted Profile (Code 3724 or Equivalent)" url="" tilt="1.61" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node10" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-89.03" title="" url="{node9}" tilt="-27.29" target="-87.5/-5.6/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-89.89" title="" url="{node3}" tilt="-13.22" target="6.0/-1.0/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point03" pan="-262.25" title="" url="{node11}" tilt="-35.42" target="87.8/0.0/70.0"/>
+      <hotspot description=": We used this fluted louver (Code 3724 or its latest equivalent) to add a modern, linear rhythm to transition areas. Placed strategically in narrow corridors, it adds architectural depth while remaining durable for high-traffic zones. It is our go-to choice for clients seeking a &quot;clean-line&quot; aesthetic." skinid="ht_info" id="Point04" pan="-164.17" title="Chisel 3 Series | Vertical Fluted Profile (Code 3724 or Equivalent)" url="" tilt="-4.25" target=""/>
+      <hotspot description=": We used this fluted louver (Code 3724 or its latest equivalent) to add a modern, linear rhythm to transition areas. Placed strategically in narrow corridors, it adds architectural depth while remaining durable for high-traffic zones. It is our go-to choice for clients seeking a &quot;clean-line&quot; aesthetic." skinid="ht_info" id="Point05" pan="-102.87" title="Chisel 3 Series | Vertical Fluted Profile (Code 3724 or Equivalent)" url="" tilt="-2.77" target=""/>
+      <hotspot description=": We used this fluted louver (Code 3724 or its latest equivalent) to add a modern, linear rhythm to transition areas. Placed strategically in narrow corridors, it adds architectural depth while remaining durable for high-traffic zones. It is our go-to choice for clients seeking a &quot;clean-line&quot; aesthetic." skinid="ht_info" id="Point06" pan="-263.32" title="Chisel 3 Series | Vertical Fluted Profile (Code 3724 or Equivalent)" url="" tilt="-2.77" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node11" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-152.97" title="" url="{node17}" tilt="-34.97" target="86.7/-18.8/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-87.45" title="" url="{node10}" tilt="-39.68" target="-87.4/-1.8/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point03" pan="-86.77" title="" url="{node9}" tilt="-16.34" target="-86.2/-2.2/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point04" pan="-86.7" title="" url="{node3}" tilt="-7.13" target="5.3/-2.4/70.0"/>
+      <hotspot description="We used this fluted louver (Code 3724 or its latest equivalent) to add a modern, linear rhythm to transition areas. Placed strategically in narrow corridors, it adds architectural depth while remaining durable for high-traffic zones. It is our go-to choice for clients seeking a &quot;clean-line&quot; aesthetic." skinid="ht_info" id="Point05" pan="-98.17" title="Chisel 3 Series | Vertical Fluted Profile (Code 3724 or Equivalent)" url="" tilt="-2.99" target=""/>
+      <hotspot description="We used this fluted louver (Code 3724 or its latest equivalent) to add a modern, linear rhythm to transition areas. Placed strategically in narrow corridors, it adds architectural depth while remaining durable for high-traffic zones. It is our go-to choice for clients seeking a &quot;clean-line&quot; aesthetic." skinid="ht_info" id="Point06" pan="-92.61" title="Chisel 3 Series | Vertical Fluted Profile (Code 3724 or Equivalent)" url="" tilt="-1.95" target=""/>
+      <hotspot description="We used this fluted louver (Code 3724 or its latest equivalent) to add a modern, linear rhythm to transition areas. Placed strategically in narrow corridors, it adds architectural depth while remaining durable for high-traffic zones. It is our go-to choice for clients seeking a &quot;clean-line&quot; aesthetic." skinid="ht_info" id="Point07" pan="-253.17" title="Chisel 3 Series | Vertical Fluted Profile (Code 3724 or Equivalent)" url="" tilt="-21.55" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node17" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-77.28" title="" url="{node11}" tilt="-27.5" target="-0.2/0.0/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-276.67" title="" url="{node18}" tilt="-52.29" target="98.7/-12.7/70.0"/>
+      <hotspot description="We selected this specific chevron-patterned louver to create a welcoming &quot;Inspiration Corner&quot; at our entrance. The geometric lines act as a visual guide, while the backlit installation showcases how Euro Pratik materials can be transformed into luminous art pieces. We recommend this to clients who want to add a unique, textured personality to compact foyer spaces or furniture backdrops." skinid="ht_info" id="Point03" pan="-168.81" title="Euro Pratik Chisel 3 | Chevron Profile (Code 3711 or Equivalent)" url="" tilt="-10.45" target=""/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node18" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-79.22" title="" url="{node17}" tilt="-8.75" target="-83.5/-1.8/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-78.23" title="" url="{node11}" tilt="13.26" target="0.2/-10.8/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point03" pan="-165.04" title="" url="{node19}" tilt="-54.69" target="104.5/-18.2/70.0"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node19" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-83.47" title="" url="{node18}" tilt="-44.72" target="0.7/-14.0/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-169.21" title="" url="{node20}" tilt="-42.99" target="82.0/16.1/70.0"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="140" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node20" latitude="" heading="0" datetime="" longitude="" tags="NEW360" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-92.27" title="" url="{node19}" tilt="11.29" target="1.7/-10.2/70.0"/>
+      <hotspot description="" skinid="ht_node" id="Point02" pan="-3.24" title="" url="{node16}" tilt="-21.93" target="92.2/-1.4/70.0"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input levelbias="0.400" width="2048" levelingpitch="0" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" pan="0" fov="70" tilt="0"/>
+      <flyin projection="9" pan="0" fov="170" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fovfisheye="360" pan="360" fov="120" fovstereographic="330" tilt="90"/>
+    </view>
+    <userdata description="" author="" title="" info="" comment="" copyright="" nodeid="node16" latitude="" heading="0" datetime="" longitude="" tags="360test" source="" customnodeid=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label background="1" width="180" bordercolor="0x000000" borderradius="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" height="20" borderalpha="1" border="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot description="" skinid="ht_node" id="Point01" pan="-90.65" title="" url="{node20}" tilt="-18.82" target="-175.6/-8.4/70.0"/>
+    </hotspots>
+    <media/>
+    <transition type="mesh" zoomoutpause="1" softedge="0" zoomafteroutfov="20" zoomout="0" blendtime="1" enabled="1" zoomspeed="2" delay="none" zoomafterinfov="90" zoomin="7" blendcolor="0x000000" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedmouse="0" rubberband="0" zoomcentercursor="1" lockedkeyboard="0" sensitivity="8" dblclickfullscreen="0" contextvr="1" contextprojections="0" speedwheel="1" lockedwheel="0" contextfullscreen="1" hideabout="1"/>
+    <vr defaulthsscale="100" skinbuttonposition="0" toggleskinbutton="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" description="" author="" title="" tags="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
