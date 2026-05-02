@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="7.1.2" apprev="20913" hassounds="0">
+  <panorama id="node1" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="lighting" datetime="" nodeid="node1" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-3.03" title="" description="" url="{node2}" tilt="-49.02" target="3.5/-3.1/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-290.78" title="" description="" url="{node3}" tilt="-40.14" target="87.4/-1.4/100.0"/>
+      <hotspot id="Point03" skinid="ht_node" pan="-306.57" title="" description="" url="{node4}" tilt="-26.21" target="173.3/-2.6/100.0"/>
+      <hotspot id="Point04" skinid="ht_info" pan="-15.43" title="ABBY LIGHTING -Peeping Tom SF (8W)" description="Selected for its precise beam to graze and highlight the natural textures of the wall paneling, adding depth and a sense of luxury to the room's perimeter." url="" tilt="21.62" target=""/>
+      <hotspot id="Point05" skinid="ht_info" pan="-30.75" title="ABBY LIGHTING-GoPro 35AR (15W)" description="Positioned directly above the MD desk to provide high-clarity, glare-free illumination for critical tasks while maintaining a sleek, professional aesthetic." url="" tilt="61.35" target=""/>
+      <hotspot id="Point06" skinid="ht_info" pan="-182.74" title="ABBY LIGHTING-Black Jack F TL (5W)" description="Engineered for spiritual spaces; the trimless pin-hole design provides a &quot;hidden&quot; light source, creating a divine, shadow-free glow that honors the sacred artifacts." url="" tilt="30.24" target=""/>
+      <hotspot id="Point07" skinid="ht_info" pan="-286.73" title="Look Around SF (15W)" description="A surface-mounted masterpiece chosen to add a sculptural element. Its adjustable beam creates a dramatic vertical wash, emphasizing the room's height and corners." url="" tilt="37.3" target=""/>
+      <hotspot id="Point08" skinid="ht_info" pan="-307.74" title="ABBY LIGHTING-XO Pro 50 (15W)" description="Selected for its deep-recessed optics that provide powerful illumination while remaining nearly invisible. It ensures a high-end, glare-free ambiance for visitors" url="" tilt="25.36" target=""/>
+      <hotspot id="Point09" skinid="ht_image" pan="-305.42" title=" Reflected Ceiling Plan (RCP)" description="This layout confirms the precise positioning for the Waiting Area's high-performance lighting. It coordinates the XO Pro 50 (7 Nos.) and Look Around SF (8 Nos.) to ensure optimal light distribution and a flicker-free experience by maintaining strategic clearance from the fan sweep." url="images/false ceiling .jpg" tilt="16.79" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="lighting" datetime="" nodeid="node2" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-130.14" title="" description="" url="{node1}" tilt="-46.95" target="-160.1/-5.9/100.0"/>
+      <hotspot id="Point02" skinid="ht_info" pan="-20.27" title="ABBY LIGHTING -Peeping Tom SF (8W)" description="Selected for its precise beam to graze and highlight the natural textures of the wall paneling, adding depth and a sense of luxury to the room's perimeter." url="" tilt="36.1" target=""/>
+      <hotspot id="Point03" skinid="ht_info" pan="-114.7" title="ABBY LIGHTING -GoPro 35 AR (15W)" description="Positioned directly above the MD desk to provide high-clarity, glare-free illumination for critical tasks while maintaining a sleek, professional aesthetic." url="" tilt="50.54" target=""/>
+      <hotspot id="Point04" skinid="ht_info" pan="-147.16" title="ABBY LIGHTING -Black Jack F TL (5W)" description="Engineered for spiritual spaces; the trimless pin-hole design provides a &quot;hidden&quot; light source, creating a divine, shadow-free glow that honors the sacred artifacts." url="" tilt="9.77" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="lighting" datetime="" nodeid="node3" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-91.8" title="" description="" url="{node1}" tilt="-33.77" target="-111.5/1.7/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-321.12" title="" description="" url="{node4}" tilt="-52.59" target="117.2/-2.1/100.0"/>
+      <hotspot id="Point03" skinid="ht_info" pan="-110.44" title="ABBY LIGHTING -Look Around SF (15W)" description="A sculptural, surface-mounted masterpiece used in an 8-unit layout. The adjustable beams create a powerful vertical wash that emphasizes the room's height." url="" tilt="47.64" target=""/>
+      <hotspot id="Point04" skinid="ht_info" pan="0.08" title="ABBY LIGHTING -XO Pro 50 (15W)" description="Specified as a 7-unit primary ambient system. Its deep-recessed optics provide a luxury, glare-free ambiance that is strategically offset for a flicker-free experience." url="" tilt="68.59" target=""/>
+      <hotspot id="Point05" skinid="ht_info" pan="-276.7" title="ABBY LIGHTING -XO Pro 50 (15W)" description="Specified as a 7-unit primary ambient system. Its deep-recessed optics provide a luxury, glare-free ambiance that is strategically offset for a flicker-free experience." url="" tilt="23.49" target=""/>
+      <hotspot id="Point06" skinid="ht_info" pan="-343.06" title="ABBY LIGHTING -Black Jack F TL (5W)" description="Chosen to replicate the focused architectural wash seen in the design. The 5W output provides high-contrast accentuation, while the trimless housing allows the light to integrate seamlessly into the plywood structure, emphasizing the niche's depth and materiality." url="" tilt="6.95" target=""/>
+      <hotspot id="Point07" skinid="ht_image" pan="-294.82" title=" Reflected Ceiling Plan (RCP)" description="This layout confirms the precise positioning for the Waiting Area's high-performance lighting. It coordinates the XO Pro 50 (7 Nos.) and Look Around SF (8 Nos.) to ensure optimal light distribution and a flicker-free experience by maintaining strategic clearance from the fan sweep." url="images/false ceiling .jpg" tilt="49.17" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="lighting" datetime="" nodeid="node4" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-110.76" title="" description="" url="{node12}" tilt="-34.3" target="82.5/-8.4/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-53.03" title="" description="" url="{node3}" tilt="-40.84" target="-109.0/-3.8/100.0"/>
+      <hotspot id="Point03" skinid="ht_node" pan="-37.57" title="" description="" url="{node1}" tilt="-24.46" target="-157.0/-5.4/100.0"/>
+      <hotspot id="Point04" skinid="ht_info" pan="-50.36" title="ABBY LIGHTING -Look Around SF (15W)" description="A surface-mounted masterpiece chosen to add a sculptural element. Its adjustable beam creates a dramatic vertical wash, emphasizing the room's height and corners." url="" tilt="25.66" target=""/>
+      <hotspot id="Point05" skinid="ht_info" pan="-49.89" title="ABBY LIGHTING -XO Pro 50 (15W)" description="Selected for its deep-recessed optics that provide powerful illumination while remaining nearly invisible. It ensures a high-end, glare-free ambiance for visitors." url="" tilt="47.21" target=""/>
+      <hotspot id="Point06" skinid="ht_info" pan="-213.34" title="ABBY LIGHTING -XO Pro 50 (15W)" description="Specified as a 7-unit primary ambient system. Its deep-recessed optics provide a luxury, glare-free ambiance that is strategically offset for a flicker-free experience." url="" tilt="66.37" target=""/>
+      <hotspot id="Point07" skinid="ht_info" pan="-210.02" title="ABBY LIGHTING -Look Around SF (15W)" description="A sculptural, surface-mounted masterpiece used in an 8-unit layout. The adjustable beams create a powerful vertical wash that emphasizes the room's height." url="" tilt="20.96" target=""/>
+      <hotspot id="Point08" skinid="ht_image" pan="-109.45" title=" Reflected Ceiling Plan (RCP)" description="This layout confirms the precise positioning for the Waiting Area's high-performance lighting. It coordinates the XO Pro 50 (7 Nos.) and Look Around SF (8 Nos.) to ensure optimal light distribution and a flicker-free experience by maintaining strategic clearance from the fan sweep." url="images/false ceiling .jpg" tilt="81.04" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="Betagen7" datetime="" nodeid="node12" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-100.81" title="" description="" url="{node4}" tilt="-35.02" target="80.2/-4.7/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-183.43" title="" description="" url="{node5}" tilt="-31.49" target="-83.9/-4.3/100.0"/>
+      <hotspot id="Point03" skinid="ht_image" pan="-94.1" title=" Reflected Ceiling Plan (RCP)" description="This layout confirms the precise positioning for the Waiting Area's high-performance lighting. It coordinates the XO Pro 50 (7 Nos.) and Look Around SF (8 Nos.) to ensure optimal light distribution and a flicker-free experience by maintaining strategic clearance from the fan sweep." url="images/false ceiling .jpg" tilt="29.62" target=""/>
+      <hotspot id="Point04" skinid="ht_info" pan="-125.65" title="ABBY - XO Pro 50 (15W)" description="Specified as a 7-unit primary ambient system. Its deep-recessed optics provide a luxury, glare-free ambiance that is strategically offset for a flicker-free experience." url="" tilt="29.31" target=""/>
+      <hotspot id="Point05" skinid="ht_info" pan="-120.65" title="ABBY - Look Around SF (15W)" description="A sculptural, surface-mounted masterpiece used in an 8-unit layout. The adjustable beams create a powerful vertical wash that emphasizes the room's height." url="" tilt="15.33" target=""/>
+      <hotspot id="Point06" skinid="ht_info" pan="-308.28" title="ABBY - XO Pro 50 (10W)" description="Corridor Ambient GlowSelected to provide a high-end, glare-free path. The 10W deep-recessed optics maintain a sophisticated atmosphere, ensuring visual comfort while emphasizing the corridor's architectural clean lines." url="" tilt="65.72" target=""/>
+      <hotspot id="Point07" skinid="ht_info" pan="-221.24" title="ABBY - Stellar 46 (20W)" description="Biophilic &quot;Halo&quot; Accent :A floating ring of light integrated with overhead greenery. This 20W &quot;halo&quot; serves as an architectural crown, providing soft, 360-degree illumination at the main entrance." url="" tilt="61.11" target=""/>
+      <hotspot id="Point08" skinid="ht_info" pan="-193.52" title="ABBY - Wallop (8W)" description="Corridor Rhythmic Accent (4 Nos.):Corridor Rhythmic Accent (4 Nos.)&#x9;Utilizes IP65 outdoor-grade durability indoors to create a rugged, premium feel. The dramatic up-down graze highlights wall textures with artistic precision." url="" tilt="-6.05" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="lighting" datetime="" nodeid="node5" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-90.2" title="" description="" url="{node6}" tilt="-23.11" target="-88.7/-3.0/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-273.82" title="" description="" url="{node12}" tilt="-45.16" target="3.9/-2.8/100.0"/>
+      <hotspot id="Point03" skinid="ht_node" pan="-91.09" title="" description="" url="{node13}" tilt="-9.58" target="-89.1/-1.3/100.0"/>
+      <hotspot id="Point04" skinid="ht_info" pan="-269.79" title="ABBY - Stellar 46 (20W)" description="Biophilic &quot;Halo&quot; Accent&#x9;A floating ring of light integrated with overhead greenery. This 20W &quot;halo&quot; serves as an architectural crown, providing soft, 360-degree illumination at the main entrance." url="" tilt="36.37" target=""/>
+      <hotspot id="Point05" skinid="ht_info" pan="-114.02" title="ABBY - Wallop (8W)" description="Corridor Rhythmic Accent (4 Nos.)&#x9;Utilizes IP65 outdoor-grade durability indoors to create a rugged, premium feel. The dramatic up-down graze highlights wall textures with artistic precision." url="" tilt="-12.89" target=""/>
+      <hotspot id="Point06" skinid="ht_info" pan="-94.91" title="ABBY - Wallop (8W)" description="Corridor Ambient GlowSelected to provide a high-end, glare-free path. The 10W deep-recessed optics maintain a sophisticated atmosphere, ensuring visual comfort while emphasizing the corridor's architectural clean lines." url="" tilt="24.59" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="lighting" datetime="" nodeid="node6" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-80.46" title="" description="" url="{node7}" tilt="-7.97" target="90.4/-22.2/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-90.63" title="" description="" url="{node13}" tilt="-25.85" target="-84.0/-3.8/100.0"/>
+      <hotspot id="Point03" skinid="ht_node" pan="-270.15" title="" description="" url="{node5}" tilt="-28.59" target="95.2/-4.8/100.0"/>
+      <hotspot id="Point04" skinid="ht_node" pan="-271.17" title="" description="" url="{node12}" tilt="-14.27" target="1.7/0.6/100.0"/>
+      <hotspot id="Point05" skinid="ht_info" pan="-242.42" title="ABBY - Wallop (8W)" description="Corridor Rhythmic Accent (4 Nos.)&#x9;Utilizes IP65 outdoor-grade durability indoors to create a rugged, premium feel. The dramatic up-down graze highlights wall textures with artistic precision." url="" tilt="-15.01" target=""/>
+      <hotspot id="Point06" skinid="ht_info" pan="-269.13" title="ABBY - XO Pro 50 (10W)" description="Corridor Ambient GlowSelected to provide a high-end, glare-free path. The 10W deep-recessed optics maintain a sophisticated atmosphere, ensuring visual comfort while emphasizing the corridor's architectural clean lines." url="" tilt="42.21" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="Betagen7" datetime="" nodeid="node13" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-269.29" title="" description="" url="{node6}" tilt="-28.54" target="90.1/-3.5/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-269.29" title="" description="" url="{node5}" tilt="-17.33" target="91.1/-0.8/100.0"/>
+      <hotspot id="Point03" skinid="ht_node" pan="-269.53" title="" description="" url="{node12}" tilt="-5.63" target="9.0/-0.5/100.0"/>
+      <hotspot id="Point04" skinid="ht_node" pan="-13.17" title="" description="" url="{node7}" tilt="-18.77" target="84.3/-9.9/100.0"/>
+      <hotspot id="Point05" skinid="ht_info" pan="-271.08" title="ABBY - XO Pro 50 (10W)" description="Corridor Ambient GlowSelected to provide a high-end, glare-free path. The 10W deep-recessed optics maintain a sophisticated atmosphere, ensuring visual comfort while emphasizing the corridor's architectural clean lines." url="" tilt="14.63" target=""/>
+      <hotspot id="Point06" skinid="ht_info" pan="-251.8" title="ABBY - Wallop (8W)" description="Corridor Rhythmic Accent (4 Nos.)&#x9;Utilizes IP65 outdoor-grade durability indoors to create a rugged, premium feel. The dramatic up-down graze highlights wall textures with artistic precision." url="" tilt="-13.47" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="NEW360" datetime="" nodeid="node7" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-86.51" title="" description="" url="{node13}" tilt="-7.84" target="-172.5/-5.1/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-277.24" title="" description="" url="{node8}" tilt="-52.17" target="93.1/-0.7/100.0"/>
+      <hotspot id="Point03" skinid="ht_info" pan="-285.36" title="ABBY - Wallop (8W)" description="Selected to provide high-contrast illumination for the staircase. Its bidirectional beam creates a rhythmic &quot;V&quot; pattern that highlights the steps and walls, ensuring a safe, glare-free ascent while making the vertical transition a design feature." url="" tilt="-37.59" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="NEW360" datetime="" nodeid="node8" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-79.07" title="" description="" url="{node7}" tilt="-10.29" target="-84.5/0.0/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-79.82" title="" description="" url="{node13}" tilt="15.4" target="-171.0/5.3/100.0"/>
+      <hotspot id="Point03" skinid="ht_node" pan="-172.17" title="" description="" url="{node9}" tilt="-57.08" target="99.6/-6.5/100.0"/>
+      <hotspot id="Point04" skinid="ht_info" pan="-357.37" title="ABBY - Wallop (8W)" description="Selected to provide high-contrast illumination for the staircase. Its bidirectional beam creates a rhythmic &quot;V&quot; pattern that highlights the steps and walls, ensuring a safe, glare-free ascent while making the vertical transition a design feature." url="" tilt="-39.91" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="NEW360" datetime="" nodeid="node9" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-85.58" title="" description="" url="{node8}" tilt="-45.2" target="5.1/-4.2/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-169.55" title="" description="" url="{node10}" tilt="-45.68" target="90.6/-0.7/100.0"/>
+      <hotspot id="Point03" skinid="ht_url" pan="-85.15" title="ABBY - Wallop (8W)" description="Selected to provide high-contrast illumination for the staircase. Its bidirectional beam creates a rhythmic &quot;V&quot; pattern that highlights the steps and walls, ensuring a safe, glare-free ascent while making the vertical transition a design feature." url="" tilt="-0.45" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="NEW360" datetime="" nodeid="node10" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-91.39" title="" description="" url="{node9}" tilt="10.34" target="8.1/-7.4/100.0"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-1.67" title="" description="" url="{node11}" tilt="-28.38" target="94.2/2.4/100.0"/>
+      <hotspot id="Point03" skinid="ht_info" pan="-85.3" title="ABBY - Wallop (8W)" description="selected to provide high-contrast illumination for the staircase. Its bidirectional beam creates a rhythmic &quot;V&quot; pattern that highlights the steps and walls, ensuring a safe, glare-free ascent while making the vertical transition a design feature." url="" tilt="30.43" target=""/>
+      <hotspot id="Point04" skinid="ht_info" pan="-3.3" title="ABBY - iBarrel S (15W)" description="The Signature Entrance (3 Nos.)&#x9;These sleek black cylinders create a rhythmic &quot;path of light&quot; for the 33' corridor, transforming a plain transition space into a high-end architectural experience." url="" tilt="21.96" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="2048" levelingpitch="0" leveltilesize="510" height="2048">
+      <level width="2048" predecode="0" height="2048" preload="0"/>
+      <level width="1024" predecode="0" height="1024" preload="0"/>
+      <level width="512" predecode="0" height="512" preload="0"/>
+      <level width="256" predecode="1" height="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fovfisheye="360" tilt="90" fov="140" scaletofit="1"/>
+    </view>
+    <userdata description="" comment="" info="" author="" customnodeid="" tags="360test" datetime="" nodeid="node11" source="" longitude="" title="" copyright="" heading="0" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label backgroundalpha="1" borderalpha="1" background="1" textalpha="1" border="1" wordwrap="1" bordercolor="0x000000" enabled="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" borderradius="1" height="20"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-89.52" title="" description="" url="{node10}" tilt="-20.71" target="-177.9/-1.7/100.0"/>
+      <hotspot id="Point02" skinid="ht_info" pan="-101.2" title="ABBY - iBarrel S (15W)" description="The Signature Entrance (3 Nos.)&#x9;These sleek black cylinders create a rhythmic &quot;path of light&quot; for the 33' corridor, transforming a plain transition space into a high-end architectural experience." url="" tilt="81.25" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomoutpause="1" type="mesh" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomout="0" zoomin="7" enabled="1" zoomafterinfov="140" zoomfov="40" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" simulatemass="1" sensitivity="8" hideabout="1" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextvr="1" lockedmouse="0" dblclickfullscreen="0" invertcontrol="1" contextfullscreen="1"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" comment="" title="" author="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
