@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" hassounds="0" appversion="7.1.2" apprev="20913">
+  <panorama id="node1" hideabout="1">
+    <input levelingpitch="0" height="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingroll="0" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata nodeid="node1" copyright="" datetime="" comment="" info="" tags="verynew" longitude="" customnodeid="" latitude="" title="" description="" author="" source="" heading="0"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" borderradius="1" wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" width="180" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_info" target="" id="Point01" pan="-24.48" title="Optima HB – Executive Ergonomic Performance Chair (Multilock Seat Sliding Mechanism &amp; 3-Way Adjustable Arms)" tilt="-32.37" description="Design Rationale:&#xa;Within our studio environment, the MD room functions as a high-performance visualization and design command center. We selected the Optima HB because its advanced ergonomic engineering is specifically designed to support prolonged architectural workflows, technical coordination sessions, and executive-level project reviews.&#xa;Performance Note:&#xa;Featuring Featherlite’s Biomorphic mesh back design, Multilock Seat Sliding Mechanism, and 3-Way Adjustable Arms, the Optima HB is curated to maintain postural support, airflow ventilation, and ergonomic adaptability during extended design and visualization sessions. Its lightweight contemporary structure aligns seamlessly with our studio’s technology-driven workspace environment. &#xa;" url=""/>
+      <hotspot skinid="ht_info" target="" id="Point02" pan="-336.67" title="Urbane Executive Cabin Table – Custom Tech-Gray Edition (1650mm W x 800mm D)" tilt="-36.66" description="Design Rationale:&#xa;We selected the 1650mm x 800mm configuration to precisely optimize the spatial proportions of the MD room while maintaining clean circulation clearances. While the Urbane Series is traditionally offered in veneer finishes, we have conceptually integrated a matte Tech-Gray finish to align with the studio’s advanced visualization-focused interior identity.&#xa;Performance Note:&#xa;By integrating the main executive desk with a streamlined 1600mm x 550mm side return, all monitors and workstation hardware remain positioned away from the primary consultation surface. This configuration preserves a clean client-facing interaction zone for blueprint reviews, design presentations, and immersive project discussions.&#xa;" url=""/>
+      <hotspot skinid="ht_info" target="" id="Point03" pan="-290.4" title="Contact Project Sled-Base Visitor Chair – Professional Visitor Seating" tilt="-25.1" description="Design Rationale:&#xa;We selected this visitor configuration to maintain continuity with the studio’s collaborative seating language while ensuring a refined executive consultation environment within the MD room.&#xa;Performance Note:&#xa;The ergonomically contoured back profile and fixed sled-base frame provide stable seating comfort during extended project consultations and technical design reviews without introducing unnecessary visual bulk into the compact executive space.&#xa;" url=""/>
+      <hotspot skinid="ht_node" target="93.6/2.2/100.0" id="Point04" pan="-279.88" title="" tilt="-34.83" description="" url="{node2}"/>
+      <hotspot skinid="ht_node" target="-2.5/-1.0/100.0" id="Point05" pan="-261.39" title="" tilt="-23.73" description="" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomin="7" zoomoutpause="1" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" delay="none" zoomafteroutfov="40" zoomfov="40" type="mesh" softedge="0" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" hideabout="1" simulatemass="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextvr="1"/>
+    <vr skinbuttonposition="0" defaulthsscale="100" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelingpitch="0" height="2048" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingroll="0" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata nodeid="node2" copyright="" datetime="" comment="" info="" tags="verynew" longitude="" customnodeid="" latitude="" title="" description="" author="" source="" heading="0"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" borderradius="1" wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" width="180" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_info" target="" id="Point01" pan="-81.64" title="Contact Project Sled-Base Visitor Chair – Professional Visitor Seating" tilt="-40.39" description="Design Rationale:&#xa;We selected this visitor configuration to maintain continuity with the studio’s collaborative seating language while ensuring a refined executive consultation environment within the MD room.&#xa;Performance Note:&#xa;The ergonomically contoured back profile and fixed sled-base frame provide stable seating comfort during extended project consultations and technical design reviews without introducing unnecessary visual bulk into the compact executive space.&#xa;" url=""/>
+      <hotspot skinid="ht_info" target="" id="Point02" pan="-71.33" title="Urbane Executive Cabin Table – Custom Tech-Gray Edition (1650mm W x 800mm D)" tilt="-23.89" description="Design Rationale:&#xa;We selected the 1650mm x 800mm configuration to precisely optimize the spatial proportions of the MD room while maintaining clean circulation clearances. While the Urbane Series is traditionally offered in veneer finishes, we have conceptually integrated a matte Tech-Gray finish to align with the studio’s advanced visualization-focused interior identity.&#xa;Performance Note:&#xa;By integrating the main executive desk with a streamlined 1600mm x 550mm side return, all monitors and workstation hardware remain positioned away from the primary consultation surface. This configuration preserves a clean client-facing interaction zone for blueprint reviews, design presentations, and immersive project discussions.&#xa;" url=""/>
+      <hotspot skinid="ht_info" target="" id="Point03" pan="-79.28" title="Optima HB – Executive Ergonomic Performance Chair (Multilock Seat Sliding Mechanism &amp; 3-Way Adjustable Arms)" tilt="-11.58" description="Design Rationale:&#xa;Within our studio environment, the MD room functions as a high-performance visualization and design command center. We selected the Optima HB because its advanced ergonomic engineering is specifically designed to support prolonged architectural workflows, technical coordination sessions, and executive-level project reviews.&#xa;Performance Note:&#xa;Featuring Featherlite’s Biomorphic mesh back design, Multilock Seat Sliding Mechanism, and 3-Way Adjustable Arms, the Optima HB is curated to maintain postural support, airflow ventilation, and ergonomic adaptability during extended design and visualization sessions. Its lightweight contemporary structure aligns seamlessly with our studio’s technology-driven workspace environment. &#xa;" url=""/>
+      <hotspot skinid="ht_node" target="-96.0/-4.9/100.0" id="Point04" pan="-108.16" title="" tilt="-41.1" description="" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomin="7" zoomoutpause="1" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" delay="none" zoomafteroutfov="40" zoomfov="40" type="mesh" softedge="0" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" hideabout="1" simulatemass="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextvr="1"/>
+    <vr skinbuttonposition="0" defaulthsscale="100" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingpitch="0" height="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingroll="0" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata nodeid="node5" copyright="" datetime="" comment="" info="" tags="verynew" longitude="" customnodeid="" latitude="" title="" description="" author="" source="" heading="0"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" borderradius="1" wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" width="180" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" target="-86.0/-0.2/100.0" id="Point01" pan="-188.87" title="" tilt="-30.53" description="" url="{node1}"/>
+      <hotspot skinid="ht_node" target="-98.9/-3.2/100.0" id="Point02" pan="-23.37" title="" tilt="-42.17" description="" url="{node3}"/>
+      <hotspot skinid="ht_info" target="" id="Point03" pan="-83.63" title="Connect Series Meeting Table – Staff Production Table (W 1500 x D 900)" tilt="-33.64" description="Design Rationale:&#xa;We selected the Connect Series table because its weldless high-pressure die-cast aluminium understructure and crisp linear silhouette establish a refined architectural workspace identity within the waiting lounge. The clean structural detailing enhances the studio’s premium technology-driven atmosphere.&#xa;Performance Note:&#xa;Sized at an optimized 1500mm x 900mm configuration, this workstation functions as a live production desk where clients can observe active 3D modeling and rendering workflows. The engineered understructure maintains a visually lightweight footprint while supporting high-performance workstation hardware and collaborative production activities.&#xa;" url=""/>
+      <hotspot skinid="ht_info" target="" id="Point04" pan="-106.65" title="Contact Project MB – Professional Collaboration Chair (Single-Lock Synchro Mechanism)" tilt="-32.69" description="Design Rationale:&#xa;We selected the Medium Back configuration of the Contact Project series to maintain visual openness within our collaborative designer workspace. The streamlined mesh-back profile integrates seamlessly into the studio’s contemporary workspace language while supporting extended project review sessions.&#xa;Performance Note:&#xa;Featuring Featherlite’s AN70 mesh back support, adjustable lumbar support, and Single-Lock Synchro Mechanism, this chair is curated for collaborative architectural discussions, rendering reviews, and VR walkthrough coordination. The balanced ergonomic configuration supports prolonged seated engagement while maintaining a visually lightweight workstation environment. &#xa;" url=""/>
+      <hotspot skinid="ht_info" target="" id="Point05" pan="-9.82" title="Pearl Series – Compact Executive Lounge Seating (Single &amp; 2-Seater)" tilt="-22.89" description="Design Rationale:&#xa;The Pearl Series seating configuration was curated specifically to deliver a premium hospitality experience within a compact 150 sq. ft. waiting environment. By pairing the single-seater and 2-seater modules, we maximize seating efficiency while preserving the studio’s open spatial flow.&#xa;Performance Note:&#xa;Both seating configurations feature high-density cushioning engineered for prolonged visitor comfort. This lounge arrangement acts as a transitional hospitality zone, allowing clients to comfortably prepare before entering the immersive VR presentation environment.&#xa;" url=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomin="7" zoomoutpause="1" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" delay="none" zoomafteroutfov="40" zoomfov="40" type="mesh" softedge="0" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" hideabout="1" simulatemass="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextvr="1"/>
+    <vr skinbuttonposition="0" defaulthsscale="100" toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelingpitch="0" height="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelingroll="0" levelbias="0.400" overlap="1" leveltilesize="510" levelbiashidpi="1.000">
+      <level predecode="0" height="2048" preload="0" width="2048"/>
+      <level predecode="0" height="1024" preload="0" width="1024"/>
+      <level predecode="0" height="512" preload="0" width="512"/>
+      <level predecode="1" height="256" preload="1" width="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fov="140" fovstereographic="330" pan="360" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata nodeid="node3" copyright="" datetime="" comment="" info="" tags="verynew" longitude="" customnodeid="" latitude="" title="" description="" author="" source="" heading="0"/>
+    <hotspots wordwrap="1" height="20" smoothmovement="0" width="180">
+      <label background="1" borderradius="1" wordwrap="1" enabled="1" height="20" bordercolor="0x000000" border="1" width="180" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" textalpha="1"/>
+      <polystyle mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_info" target="" id="Point01" pan="-79.38" title="Pearl Series – Compact Executive Lounge Seating (Single &amp; 2-Seater)" tilt="-34.2" description="Design Rationale:&#xa;The Pearl Series seating configuration was curated specifically to deliver a premium hospitality experience within a compact 150 sq. ft. waiting environment. By pairing the single-seater and 2-seater modules, we maximize seating efficiency while preserving the studio’s open spatial flow.&#xa;Performance Note:&#xa;Both seating configurations feature high-density cushioning engineered for prolonged visitor comfort. This lounge arrangement acts as a transitional hospitality zone, allowing clients to comfortably prepare before entering the immersive VR presentation environment.&#xa;" url=""/>
+      <hotspot skinid="ht_info" target="" id="Point02" pan="-241.37" title="Connect Series Meeting Table – Staff Production Table (W 1500 x D 900)" tilt="-39.98" description="Design Rationale:&#xa;We selected the Connect Series table because its weldless high-pressure die-cast aluminium understructure and crisp linear silhouette establish a refined architectural workspace identity within the waiting lounge. The clean structural detailing enhances the studio’s premium technology-driven atmosphere.&#xa;Performance Note:&#xa;Sized at an optimized 1500mm x 900mm configuration, this workstation functions as a live production desk where clients can observe active 3D modeling and rendering workflows. The engineered understructure maintains a visually lightweight footprint while supporting high-performance workstation hardware and collaborative production activities.&#xa;" url=""/>
+      <hotspot skinid="ht_info" target="" id="Point03" pan="-240.41" title="Contact Project MB – Professional Collaboration Chair (Single-Lock Synchro Mechanism)" tilt="-22.83" description="Design Rationale:&#xa;We selected the Medium Back configuration of the Contact Project series to maintain visual openness within our collaborative designer workspace. The streamlined mesh-back profile integrates seamlessly into the studio’s contemporary workspace language while supporting extended project review sessions.&#xa;Performance Note:&#xa;Featuring Featherlite’s AN70 mesh back support, adjustable lumbar support, and Single-Lock Synchro Mechanism, this chair is curated for collaborative architectural discussions, rendering reviews, and VR walkthrough coordination. The balanced ergonomic configuration supports prolonged seated engagement while maintaining a visually lightweight workstation environment. &#xa;" url=""/>
+      <hotspot skinid="ht_node" target="136.7/1.5/100.0" id="Point04" pan="-315.79" title="" tilt="-46.24" description="" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" enabled="1" zoomin="7" zoomoutpause="1" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" delay="none" zoomafteroutfov="40" zoomfov="40" type="mesh" softedge="0" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control sensitivity="8" zoomcentercursor="1" lockedkeyboardzoom="0" speedwheel="1" hideabout="1" simulatemass="1" lockedwheel="0" invertwheel="0" dblclickfullscreen="0" rubberband="0" contextprojections="0" invertcontrol="1" contextfullscreen="1" lockedmouse="0" lockedkeyboard="0" contextvr="1"/>
+    <vr skinbuttonposition="0" defaulthsscale="100" toggleskinbutton="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" title="" comment="" description="" author="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
