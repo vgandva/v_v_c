@@ -1,118 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node7" appversion="7.1.2" apprev="20913" hassounds="0">
-  <panorama id="node8" hideabout="1">
-    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2048" height="2048" levelingroll="0" levelingpitch="0">
-      <level predecode="0" width="2048" height="2048" preload="0"/>
-      <level predecode="0" width="1024" height="1024" preload="0"/>
-      <level predecode="0" width="512" height="512" preload="0"/>
-      <level predecode="1" width="256" height="256" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+<tour apprev="20913" hassounds="0" appversion="7.1.2" start="node7">
+  <panorama hideabout="1" id="node8">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" width="2048" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fov="140"/>
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
     </view>
-    <userdata comment="" source="" tags="verynew" longitude="" heading="0" info="" description="" copyright="" latitude="" nodeid="node8" datetime="" author="" title="" customnodeid=""/>
-    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" background="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" border="1"/>
-      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot url="{node9}" target="93.8/-9.4/100.0" pan="-276.28" skinid="ht_node" title="" description="" id="Point01" tilt="-36.43"/>
-      <hotspot url="{node7}" target="0.8/3.3/100.0" pan="-259.89" skinid="ht_node" title="" description="" id="Point02" tilt="-24.68"/>
+    <userdata tags="verynew" longitude="" source="" datetime="" customnodeid="" heading="0" comment="" title="" info="" author="" nodeid="node8" copyright="" description="" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" enabled="1" border="1" borderradius="1" backgroundalpha="1" height="20" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" title="" url="{node9}" pan="-276.28" tilt="-36.43" target="93.8/-9.4/100.0" id="Point01" description=""/>
+      <hotspot skinid="ht_node" title="" url="{node7}" pan="-259.89" tilt="-24.68" target="0.8/3.3/100.0" id="Point02" description=""/>
     </hotspots>
     <media/>
-    <transition type="mesh" enabled="1" zoomspeed="2" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" blendcolor="0x000000" softedge="0" blendtime="1" zoomafterinfov="140" delay="none" zoomin="7" zoomfov="40"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control rubberband="0" contextvr="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" simulatemass="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0"/>
-    <vr toggleskinbutton="1" skinbuttonposition="0" defaulthsscale="100"/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" delay="none" softedge="0" zoomfov="40" enabled="1" type="mesh" zoomin="7" blendtime="1" zoomafteroutfov="40" zoomspeed="2" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" rubberband="0" invertwheel="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
   </panorama>
-  <panorama id="node9" hideabout="1">
-    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2048" height="2048" levelingroll="0" levelingpitch="0">
-      <level predecode="0" width="2048" height="2048" preload="0"/>
-      <level predecode="0" width="1024" height="1024" preload="0"/>
-      <level predecode="0" width="512" height="512" preload="0"/>
-      <level predecode="1" width="256" height="256" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+  <panorama hideabout="1" id="node9">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" width="2048" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fov="140"/>
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
     </view>
-    <userdata comment="" source="" tags="verynew" longitude="" heading="0" info="" description="" copyright="" latitude="" nodeid="node9" datetime="" author="" title="" customnodeid=""/>
-    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" background="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" border="1"/>
-      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot url="" target="" pan="-7.88" skinid="ht_info" title="Executive Storage &amp; Material Credenza" description=" A dedicated secure document filing system in the MD office, crafted entirely from CenturyPly Architect Ply for superior impact resistance, zero core-gap construction, and life-long load-bearing stability for heavy official paperwork and files. The surface application utilizes CenturyLaminates Lucida (1mm High-Gloss) to mirror the main showroom aesthetic, with the top counter and side panels finished in Graphite Grey (238 LU) and front panels in Silver Grey (225 LU). This ensures clean spatial harmony and serves as an executive client touchpoint." id="Point01" tilt="-39.71"/>
-      <hotspot url="{node8}" target="-78.0/-16.5/100.0" pan="-106.51" skinid="ht_node" title="" description="" id="Point02" tilt="-41.15"/>
+    <userdata tags="verynew" longitude="" source="" datetime="" customnodeid="" heading="0" comment="" title="" info="" author="" nodeid="node9" copyright="" description="" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" enabled="1" border="1" borderradius="1" backgroundalpha="1" height="20" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_info" title="Executive Storage &amp; Material Credenza" url="" pan="-7.88" tilt="-39.71" target="" id="Point01" description=" A dedicated secure document filing system in the MD office, crafted entirely from CenturyPly Architect Ply for superior impact resistance, zero core-gap construction, and life-long load-bearing stability for heavy official paperwork and files. The surface application utilizes CenturyLaminates Lucida (1mm High-Gloss) to mirror the main showroom aesthetic, with the top counter and side panels finished in Graphite Grey (238 LU) and front panels in Silver Grey (225 LU). This ensures clean spatial harmony and serves as an executive client touchpoint."/>
+      <hotspot skinid="ht_node" title="" url="{node8}" pan="-106.51" tilt="-41.15" target="-78.0/-16.5/100.0" id="Point02" description=""/>
     </hotspots>
     <media/>
-    <transition type="mesh" enabled="1" zoomspeed="2" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" blendcolor="0x000000" softedge="0" blendtime="1" zoomafterinfov="140" delay="none" zoomin="7" zoomfov="40"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control rubberband="0" contextvr="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" simulatemass="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0"/>
-    <vr toggleskinbutton="1" skinbuttonposition="0" defaulthsscale="100"/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" delay="none" softedge="0" zoomfov="40" enabled="1" type="mesh" zoomin="7" blendtime="1" zoomafteroutfov="40" zoomspeed="2" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" rubberband="0" invertwheel="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
   </panorama>
-  <panorama id="node7" hideabout="1">
-    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2048" height="2048" levelingroll="0" levelingpitch="0">
-      <level predecode="0" width="2048" height="2048" preload="0"/>
-      <level predecode="0" width="1024" height="1024" preload="0"/>
-      <level predecode="0" width="512" height="512" preload="0"/>
-      <level predecode="1" width="256" height="256" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+  <panorama hideabout="1" id="node7">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" width="2048" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fov="140"/>
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
     </view>
-    <userdata comment="" source="" tags="verynew" longitude="" heading="0" info="" description="" copyright="" latitude="" nodeid="node7" datetime="" author="" title="" customnodeid=""/>
-    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" background="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" border="1"/>
-      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot url="{node8}" target="-89.5/0.0/100.0" pan="-189.19" skinid="ht_node" title="" description="" id="Point01" tilt="-30.85"/>
-      <hotspot url="{node10}" target="-101.2/-12.8/100.0" pan="-28.33" skinid="ht_node" title="" description="" id="Point02" tilt="-45.64"/>
+    <userdata tags="verynew" longitude="" source="" datetime="" customnodeid="" heading="0" comment="" title="" info="" author="" nodeid="node7" copyright="" description="" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" enabled="1" border="1" borderradius="1" backgroundalpha="1" height="20" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" title="" url="{node8}" pan="-189.19" tilt="-30.85" target="-89.5/0.0/100.0" id="Point01" description=""/>
+      <hotspot skinid="ht_node" title="" url="{node10}" pan="-28.33" tilt="-45.64" target="-101.2/-12.8/100.0" id="Point02" description=""/>
     </hotspots>
     <media/>
-    <transition type="mesh" enabled="1" zoomspeed="2" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" blendcolor="0x000000" softedge="0" blendtime="1" zoomafterinfov="140" delay="none" zoomin="7" zoomfov="40"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control rubberband="0" contextvr="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" simulatemass="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0"/>
-    <vr toggleskinbutton="1" skinbuttonposition="0" defaulthsscale="100"/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" delay="none" softedge="0" zoomfov="40" enabled="1" type="mesh" zoomin="7" blendtime="1" zoomafteroutfov="40" zoomspeed="2" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" rubberband="0" invertwheel="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
   </panorama>
-  <panorama id="node10" hideabout="1">
-    <input levelbiashidpi="1.000" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="2048" height="2048" levelingroll="0" levelingpitch="0">
-      <level predecode="0" width="2048" height="2048" preload="0"/>
-      <level predecode="0" width="1024" height="1024" preload="0"/>
-      <level predecode="0" width="512" height="512" preload="0"/>
-      <level predecode="1" width="256" height="256" preload="1"/>
-      <preview strip="1" color="0x808080"/>
+  <panorama hideabout="1" id="node10">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" width="2048" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start projection="4" pan="0" tilt="0" fov="100"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max fovfisheye="360" scaletofit="1" pan="360" fovstereographic="330" tilt="90" fov="140"/>
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
     </view>
-    <userdata comment="" source="" tags="verynew" longitude="" heading="0" info="" description="" copyright="" latitude="" nodeid="node10" datetime="" author="" title="" customnodeid=""/>
-    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
-      <label borderradius="1" enabled="1" background="1" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" width="180" textalpha="1" height="20" bordercolor="0x000000" backgroundalpha="1" textcolor="0x000000" border="1"/>
-      <polystyle borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
-      <hotspot url="" target="" pan="-62.02" skinid="ht_info" title="Structural Core &amp; Specification Center" description="Built on a premium substrate of CenturyPly Architect Ply, a BWP Marine Grade core engineered with patented Firewall and ViroKill technologies and a Lifetime Warranty. The exterior shutters feature CenturyLaminates Lucida (1mm High-Gloss) in a high-contrast palette of Silver Grey (225 LU) and Graphite Grey (238 LU). This brings a scuff-resistant, mirror-like finish that catches the linear profile lighting, creating an interactive sample hub where users can compare physical surfaces to their digital twin VR models." id="Point01" tilt="-4.33"/>
-      <hotspot url="" target="" pan="-85.71" skinid="ht_info" title="Architectural Framing: Cordia Zericote Premium Panelling" description="A layered perimeter installation framing the office window, mounted on moisture-resistant CenturyPly Architect Ply to eliminate shifting and environmental warp. The finish uses CenturyLaminates Cordia Zericote (689 NH, 1mm), a high-end exotic woodgrain texture with a Natural Horizontal (NH) grain flow. Its matte, textured surface absorbs the geometric border lighting perfectly, creating a clean accent framing line that displays a premium alternative to expensive timber millwork." id="Point02" tilt="17.64"/>
-      <hotspot url="" target="" pan="-14.2" skinid="ht_info" title="Portal Architecture: Cordia Zericote Transition Panelling" description="An architectural entry portal framing the doorway from the corridor to the studio, built with high-impact CenturyPly Architect Ply to withstand dense day-to-day traffic. The heavy transition walls are wrapped in CenturyLaminates Cordia Zericote (689 NH, 1mm) with its horizontal grain configuration running sideways. This design grounds the primary entrance point, contrasting with the nearby reflective marble walls and diagonal light lines to set an executive tone." id="Point03" tilt="26.62"/>
-      <hotspot url="{node7}" target="141.1/-2.2/100.0" pan="-315.91" skinid="ht_node" title="" description="" id="Point04" tilt="-50.38"/>
-      <hotspot url="" target="" pan="-93.23" skinid="ht_info" title="Sculpted Ceiling System: 6809 LC Tivoli Travertine" description="An organic, curved wave ceiling executed using specialized CenturyLaminates 6809 LC (1.50mm Louver Curtains) over a flexible plywood structure. The extra-thick 1.50mm gauge features deep, factory-pressed vertical grooves that cleanly simulate heavy 3D fluted panels without structural weight or dust buildup. Mounted at an 8-foot clearance, the micro-recessed louvers interact with hidden ambient LED strips to create linear shadow contrast, delivering a low-maintenance acoustic visual layout." id="Point05" tilt="58.05"/>
+    <userdata tags="verynew" longitude="" source="" datetime="" customnodeid="" heading="0" comment="" title="" info="" author="" nodeid="node10" copyright="" description="" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" enabled="1" border="1" borderradius="1" backgroundalpha="1" height="20" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_info" title="Structural Core &amp; Specification Center" url="" pan="-62.02" tilt="-4.33" target="" id="Point01" description="Built on a premium substrate of CenturyPly Architect Ply, a BWP Marine Grade core engineered with patented Firewall and ViroKill technologies and a Lifetime Warranty. The exterior shutters feature CenturyLaminates Lucida (1mm High-Gloss) in a high-contrast palette of Silver Grey (225 LU) and Graphite Grey (238 LU). This brings a scuff-resistant, mirror-like finish that catches the linear profile lighting, creating an interactive sample hub where users can compare physical surfaces to their digital twin VR models."/>
+      <hotspot skinid="ht_info" title="Architectural Framing: Cordia Zericote Premium Panelling" url="" pan="-85.71" tilt="17.64" target="" id="Point02" description="•&#x9;Description: The feature panelling surrounding the window frame is built upon a high-performance, 100% waterproof substrate of Century PVC/WPC Boards. This advanced premium base completely prevents moisture-induced warping, rotting, or dampness from external climate shifts while introducing deep architectural layers into the MD office.&#xa;•&#x9;Surface Finish: The surrounding panels are surfaced in CenturyLaminates Cordia Zericote (689 NH, 1mm). This specialized exotic woodgrain texture delivers a rich, dark-grained matte depth that perfectly absorbs and defines the geometric outline of our integrated linear border lighting.&#xa;•&#x9;Experience Zone: Placed at a key architectural focal point, this installation highlights how Century's natural-grain laminate collections paired with a durable PVC/WPC core can replace expensive, high-maintenance raw timber cladding, giving visiting developers a smart alternative for luxury projects.&#xa;"/>
+      <hotspot skinid="ht_info" title="Portal Architecture: Cordia Zericote Transition Panelling" url="" pan="-14.2" tilt="26.62" target="" id="Point03" description="•&#x9;Description: The complete structural framing of this high-traffic entry portal transitioning from the first-floor corridor into the MD office is built using Century PVC/WPC Boards. This ensures lifetime resistance to impact, termites, and moisture, maintaining perfect structural stability for the heavy-use doorway.&#xa;•&#x9;Surface Finish: The deep, layered portal walls are cladded in CenturyLaminates Cordia Zericote (689 NH, 1mm). This exotic, dark-grained matte finish brings a premium, organic texture that grounds the entry design, contrasting beautifully with the high-gloss marble surfaces and sharp diagonal profile lighting cutting across the accent wall.&#xa;•&#x9;Experience Zone: This main entrance serves as the primary touchpoint where clients and BAI builders cross the threshold into the studio, instantly demonstrating the flawless structural finish and elite quality of Century’s premium board applications before they even sit down.&#xa;"/>
+      <hotspot skinid="ht_node" title="" url="{node7}" pan="-315.91" tilt="-50.38" target="141.1/-2.2/100.0" id="Point04" description=""/>
+      <hotspot skinid="ht_info" title="Sculpted Ceiling System: 6809 LC Tivoli Travertine" url="" pan="-93.23" tilt="58.05" target="" id="Point05" description="An organic, curved wave ceiling executed using specialized CenturyLaminates 6809 LC (1.50mm Louver Curtains) over a flexible plywood structure. The extra-thick 1.50mm gauge features deep, factory-pressed vertical grooves that cleanly simulate heavy 3D fluted panels without structural weight or dust buildup. Mounted at an 8-foot clearance, the micro-recessed louvers interact with hidden ambient LED strips to create linear shadow contrast, delivering a low-maintenance acoustic visual layout."/>
+      <hotspot skinid="ht_node" title="" url="{node14}" pan="-11.24" tilt="-32.71" target="2.2/2.5/100.0" id="Point06" description=""/>
     </hotspots>
     <media/>
-    <transition type="mesh" enabled="1" zoomspeed="2" zoomout="0" zoomafteroutfov="40" zoomoutpause="1" blendcolor="0x000000" softedge="0" blendtime="1" zoomafterinfov="140" delay="none" zoomin="7" zoomfov="40"/>
-    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control rubberband="0" contextvr="1" lockedmouse="0" sensitivity="8" contextfullscreen="1" hideabout="1" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" simulatemass="1" zoomcentercursor="1" speedwheel="1" invertcontrol="1" lockedkeyboardzoom="0" lockedwheel="0"/>
-    <vr toggleskinbutton="1" skinbuttonposition="0" defaulthsscale="100"/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" delay="none" softedge="0" zoomfov="40" enabled="1" type="mesh" zoomin="7" blendtime="1" zoomafteroutfov="40" zoomspeed="2" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" rubberband="0" invertwheel="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" width="2048" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata tags="Newfolder4" longitude="" source="" datetime="" customnodeid="" heading="0" comment="" title="" info="" author="" nodeid="node14" copyright="" description="" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" enabled="1" border="1" borderradius="1" backgroundalpha="1" height="20" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" title="" url="{node10}" pan="-184.03" tilt="-34.38" target="176.3/-1.2/100.0" id="Point01" description=""/>
+      <hotspot skinid="ht_node" title="" url="{node11}" pan="-261.66" tilt="-19.06" target="-89.4/-3.2/100.0" id="Point02" description=""/>
+      <hotspot skinid="ht_node" title="" url="{node15}" pan="-262.41" tilt="-9.45" target="89.9/-2.6/100.0" id="Point03" description=""/>
+      <hotspot skinid="ht_info" title="•&#x9;Architectural Continuity: Light Fluted Structural Articulation" url="" pan="-262.8" tilt="1.51" target="" id="Point04" description="•&#x9;Description: The structural framing and accent wall panels strategically positioned across this high-visibility, first-floor corridor are engineered using a high-durability foundation of Century PVC/WPC Boards. This premium core ensures absolute structural straightness and stability, completely eliminating the risk of warping or moisture damage across the corridor's key architectural zones.&#xa;•&#x9;Surface Finish: The selected accent walls and feature paneling installations are seamlessly surfaced in CenturyLaminates Light Fluted (6803 SU) from the 1mm premium texture collection. This innovative linear fluted finish introduces deep structural shadows and organic timber depth, interacting beautifully with the corridor's ambient lighting to create a cohesive, premium geometric texture throughout the space.&#xa;•&#x9;Experience Zone: Designed as a flexible, live material application node within the main circulation pathway, this installation allows visiting builders, developers, and clients to interact with premium texturing as they move through the studio. It provides a touchable demonstration of how Century's advanced 1mm finishes effortlessly deliver a high-end, custom-carved timber look without the excessive weight, labor costs, or maintenance of solid wood paneling.&#xa;"/>
+      <hotspot skinid="ht_info" title="Architectural Harmony: Cordia Zericote Experiential Panelling" url="" pan="-64.22" tilt="26.87" target="" id="Point05" description="•&#x9;Description: The structural curved framing and deep structural backing surrounding this indoor waterfall water feature are engineered using 100% waterproof Century PVC/WPC Boards. This advanced premium core provides lifetime immunity against direct moisture, continuous high humidity, and splashing, ensuring that this focal installation remains structurally flawless and completely free from rotting or dampness.&#xa;•&#x9;Surface Finish: The surrounding vertical architectural walls and framing elements are seamlessly surfaced in CenturyLaminates Cordia Zericote (689 NH, 1mm). This specialized, exotic dark-grained wood texture introduces a deep matte organic warmth that beautifully frames the water feature, absorbing the overhead ambient highlights while contrasting sharply against the bright green accent textures and cascading water lines.&#xa;•&#x9;Experience Zone: Serving as the central experiential focal point of the studio, this luxury installation provides a live, touchable demonstration for developers and builders. It physically showcases how Century’s waterproof cores and premium 1mm laminate faces can confidently be deployed even in challenging, high-moisture luxury wellness spaces to replace high-maintenance raw timber panels.&#xa;"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" delay="none" softedge="0" zoomfov="40" enabled="1" type="mesh" zoomin="7" blendtime="1" zoomafteroutfov="40" zoomspeed="2" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" rubberband="0" invertwheel="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" width="2048" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata tags="lighting" longitude="" source="" datetime="" customnodeid="" heading="0" comment="" title="" info="" author="" nodeid="node11" copyright="" description="" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" enabled="1" border="1" borderradius="1" backgroundalpha="1" height="20" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" title="" url="{node14}" pan="-270.06" tilt="-18.78" target="-82.2/-1.8/100.0" id="Point01" description=""/>
+      <hotspot skinid="ht_node" title="" url="{node15}" pan="-90.27" tilt="-24.63" target="89.1/-2.3/100.0" id="Point02" description=""/>
+      <hotspot skinid="ht_node" title="" url="{node16}" pan="-80.31" tilt="-9.47" target="-175.6/-10.3/100.0" id="Point03" description=""/>
+      <hotspot skinid="ht_info" title="•&#x9;Architectural Continuity: Light Fluted Structural Articulation" url="" pan="-353.4" tilt="5.94" target="" id="Point04" description="•&#x9;Description: The structural framing and accent wall panels strategically positioned across this high-visibility, first-floor corridor are engineered using a high-durability foundation of Century PVC/WPC Boards. This premium core ensures absolute structural straightness and stability, completely eliminating the risk of warping or moisture damage across the corridor's key architectural zones.&#xa;•&#x9;Surface Finish: The selected accent walls and feature paneling installations are seamlessly surfaced in CenturyLaminates Light Fluted (6803 SU) from the 1mm premium texture collection. This innovative linear fluted finish introduces deep structural shadows and organic timber depth, interacting beautifully with the corridor's ambient lighting to create a cohesive, premium geometric texture throughout the space.&#xa;•&#x9;Experience Zone: Designed as a flexible, live material application node within the main circulation pathway, this installation allows visiting builders, developers, and clients to interact with premium texturing as they move through the studio. It provides a touchable demonstration of how Century's advanced 1mm finishes effortlessly deliver a high-end, custom-carved timber look without the excessive weight, labor costs, or maintenance of solid wood paneling.&#xa;"/>
+      <hotspot skinid="ht_info" title="•&#x9;Architectural Continuity: Light Fluted Structural Articulation" url="" pan="-287.99" tilt="4.19" target="" id="Point05" description="•&#x9;Description: The structural framing and accent wall panels strategically positioned across this high-visibility, first-floor corridor are engineered using a high-durability foundation of Century PVC/WPC Boards. This premium core ensures absolute structural straightness and stability, completely eliminating the risk of warping or moisture damage across the corridor's key architectural zones.&#xa;•&#x9;Surface Finish: The selected accent walls and feature paneling installations are seamlessly surfaced in CenturyLaminates Light Fluted (6803 SU) from the 1mm premium texture collection. This innovative linear fluted finish introduces deep structural shadows and organic timber depth, interacting beautifully with the corridor's ambient lighting to create a cohesive, premium geometric texture throughout the space.&#xa;•&#x9;Experience Zone: Designed as a flexible, live material application node within the main circulation pathway, this installation allows visiting builders, developers, and clients to interact with premium texturing as they move through the studio. It provides a touchable demonstration of how Century's advanced 1mm finishes effortlessly deliver a high-end, custom-carved timber look without the excessive weight, labor costs, or maintenance of solid wood paneling.&#xa;"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" delay="none" softedge="0" zoomfov="40" enabled="1" type="mesh" zoomin="7" blendtime="1" zoomafteroutfov="40" zoomspeed="2" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" rubberband="0" invertwheel="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node15">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" width="2048" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata tags="Newfolder4" longitude="" source="" datetime="" customnodeid="" heading="0" comment="" title="" info="" author="" nodeid="node15" copyright="" description="" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" enabled="1" border="1" borderradius="1" backgroundalpha="1" height="20" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" title="" url="{node14}" pan="-97.54" tilt="-12.19" target="-86.0/0.8/100.0" id="Point01" description=""/>
+      <hotspot skinid="ht_node" title="" url="{node11}" pan="-97.69" tilt="-22.93" target="89.9/-7.7/100.0" id="Point02" description=""/>
+      <hotspot skinid="ht_node" title="" url="{node16}" pan="-204.98" tilt="-23.3" target="-171.1/-5.2/100.0" id="Point03" description=""/>
+      <hotspot skinid="ht_info" title="Light Fluted Structural Articulation" url="" pan="-110.95" tilt="6.66" target="" id="Point04" description="•&#x9;Description: The structural framing and accent wall panels strategically positioned across this high-visibility, first-floor corridor are engineered using a high-durability foundation of Century PVC/WPC Boards. This premium core ensures absolute structural straightness and stability, completely eliminating the risk of warping or moisture damage across the corridor's key architectural zones.&#xa;•&#x9;Surface Finish: The selected accent walls and feature paneling installations are seamlessly surfaced in CenturyLaminates Light Fluted (6803 SU) from the 1mm premium texture collection. This innovative linear fluted finish introduces deep structural shadows and organic timber depth, interacting beautifully with the corridor's ambient lighting to create a cohesive, premium geometric texture throughout the space.&#xa;•&#x9;Experience Zone: Designed as a flexible, live material application node within the main circulation pathway, this installation allows visiting builders, developers, and clients to interact with premium texturing as they move through the studio. It provides a touchable demonstration of how Century's advanced 1mm finishes effortlessly deliver a high-end, custom-carved timber look without the excessive weight, labor costs, or maintenance of solid wood paneling.&#xa;"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" delay="none" softedge="0" zoomfov="40" enabled="1" type="mesh" zoomin="7" blendtime="1" zoomafteroutfov="40" zoomspeed="2" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" rubberband="0" invertwheel="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" width="2048" overlap="1" levelingpitch="0" height="2048" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level predecode="0" height="2048" width="2048" preload="0"/>
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata tags="Newfolder4" longitude="" source="" datetime="" customnodeid="" heading="0" comment="" title="" info="" author="" nodeid="node16" copyright="" description="" latitude=""/>
+    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
+      <label textalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" enabled="1" border="1" borderradius="1" backgroundalpha="1" height="20" wordwrap="1" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" title="" url="{node15}" pan="-6.9" tilt="-9.29" target="-9.3/-3.3/100.0" id="Point01" description=""/>
+      <hotspot skinid="ht_info" title="Portal Architecture: Warm Petals Material Articulation" url="" pan="-90.52" tilt="10.04" target="" id="Point02" description="•&#x9;Description: The complete structural wall framing and vertical backing for this essential arrival alcove are engineered using 100% waterproof Century PVC/WPC Boards. This advanced premium core provides lifetime immunity against ground moisture and heavy daily foot traffic, ensuring that this high-use arrival point remains structurally flawless over time.&#xa;•&#x9;Surface Finish: The surrounding structural faces are seamlessly finished in CenturyLaminates Warm Petals (6813 SI). This sophisticated, matte pastel tone introduces an immediate visual warmth that softens the spatial transition, absorbing the ambient accent lighting to set an elegant, premium tone right at the entrance.&#xa;•&#x9;Experience Zone: Positioned directly where every developer, builder, and client pauses upon crossing the threshold, this installation transforms a functional utility alcove into a luxurious architectural experience. It serves as a live, high-traffic demonstration of how Century's durable waterproof cores and designer surfaces instantly elevate essential everyday spaces into high-end hospitality environments.&#xa;"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomoutpause="1" zoomafterinfov="140" delay="none" softedge="0" zoomfov="40" enabled="1" type="mesh" zoomin="7" blendtime="1" zoomafteroutfov="40" zoomspeed="2" zoomout="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control invertcontrol="1" lockedkeyboard="0" hideabout="1" dblclickfullscreen="0" contextfullscreen="1" lockedmouse="0" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" zoomcentercursor="1" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" rubberband="0" invertwheel="0"/>
+    <vr defaulthsscale="100" toggleskinbutton="1" skinbuttonposition="0"/>
   </panorama>
   <masternode>
-    <userdata comment="" tags="" author="" title="" description="" copyright=""/>
+    <userdata title="" tags="" author="" copyright="" description="" comment=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
